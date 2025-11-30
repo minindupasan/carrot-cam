@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Project specific
+output.mp4
+*.engine
+*.pt
+models/*.engine
+models/*.pt
+!models/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+## Assets
+assets/
