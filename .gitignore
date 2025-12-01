@@ -26,3 +26,6 @@ models/*.pt
 
 ## Assets
 assets/
+
+## Other
+.mp4

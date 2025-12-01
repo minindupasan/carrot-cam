@@ -102,7 +102,7 @@ class OptimizedDetector:
 
         # Pre-compute font settings for speed
         self.font = cv2.FONT_HERSHEY_SIMPLEX
-        self.font_scale = 0.2
+        self.font_scale = 0.4
         self.font_thickness = 1
         self.box_thickness = 1  # Thicker boxes for better visibility
 
